@@ -1246,7 +1246,7 @@ height: 100%;
   content: "";
   width: 24px;
   height: 24px;
-  background: url("/images/decor/Rightarr.svg") 0 0 / 100% no-repeat;
+  background: url("images/decor/Rightarr.svg") 0 0 / 100% no-repeat;
   margin-left: 8px;
 }
 .blog_item-link:hover{
@@ -1285,15 +1285,15 @@ height: 100%;
   background: #fff8aa;
 }
 .blog_item--podcast .blog_image-box span::before {
-  background: url("/images/decor/blog1.jpg") 0 0 / 100% no-repeat;
+  background: url("images/decor/blog1.jpg") 0 0 / 100% no-repeat;
 }
 
 .blog_item--video .blog_image-box span::before {
-  background: url("/images/decor/blog2.jpg") 0 0 / 100% no-repeat;
+  background: url("images/decor/blog2.jpg") 0 0 / 100% no-repeat;
 }
 
 .blog_item--article .blog_image-box span::before {
-  background: url("/images/decor/blog3.jpg") 0 0 / 100% no-repeat;
+  background: url("images/decor/blog3.jpg") 0 0 / 100% no-repeat;
 }
 
 
@@ -1488,7 +1488,7 @@ height: 100%;
   clip: rect(0, 0, 0, 0);
 }
 .questions_form-default:checked+ .questions_form-custom {
-  background: url("../images/decor/chec6.svg") 50% 50% no-repeat, #FF3F3A;
+  background: url("/images/decor/checked56.svg") 50% 50% no-repeat, #FF3F3A;
   border: 1px solid #FF3F3A;
 }
 .questions_form-custom {
